@@ -37,7 +37,7 @@ unity3d-store is the Unity3d flavor of SOOMLA's Store Module.
 > If you're upgrading to v1.7.x make sure you take soomla-unity3d-core again.
 
 [soomla-unity3d-core v1.0.8](http://library.soom.la/fetch/unity3d-core/1.0.8?cf=github)  
-[unity3d-store v1.8.1](http://library.soom.la/fetch/unity3d-store/1.8.1?cf=github)
+[unity3d-store v1.8.0](http://library.soom.la/fetch/unity3d-store/1.8.0?cf=github)
 
 ## Debugging
 
@@ -97,9 +97,9 @@ Don't forget to close the Iab Service when your store is closed. You don't have 
 
 This WP8 plugin work on Unity 4.5.4 and above 4.x versions.
 
-For Unity 5 the plugin work with 5.0.1p1 patch release 1 version and above.
+For Unity 5 the plugin works with 5.0.1p1 patch release 1 version and above.
 
-To build for WP8 target you need to configure the assemblies with the new plugins setting panel introduce in the 5.0 version.
+To build for WP8 target you need to configure the assemblies with the new plugins settings panel introduced in the 5.0 version.
 
 For Assets/Plugins/soomla-wp-core.dll Check Editor platform only
 
@@ -115,7 +115,7 @@ To activate the IAP Test Mode select the checkbox in the Soomla Config Panel. De
 
 #### Simulator build
 
-To run your app in the simulator select the checkbox in the Soomla config panel. This option copy the right assembly into the Assets/Plugins/WP8/ folder
+To run your app in the simulator select the checkbox in the Soomla config panel. This option copies the right assembly into the Assets/Plugins/WP8/ folder
 
 #### Clone and Develop on Windows (workaround)
 
